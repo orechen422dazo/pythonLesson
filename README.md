@@ -1,7 +1,5 @@
 # pythonLesson
-git remote add origin git@github.com:orechen422dazo/pythonLesson.git
-git branch -M main
-git push -u origin main
+project managed by pyenv version
 
 | info           | comment      |
 |----------------|--------------|
